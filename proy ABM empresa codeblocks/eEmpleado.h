@@ -45,8 +45,6 @@ int EMPLEADO_pInicializaEstructuras_DeTam_(eEmpleado* listaDeEstructuras,int tam
 
 int EMPLEADO_pInicializaUnaEstructura_(eEmpleado* pUnaEstructura);
 
-int NEXO_pMenu_CargaListaEmpleados_O_InicializaListaEmpleadosVacia(eEmpleado* listaEmpleados,int tamListaEmpleados
-                                                                   ,eSector* listaSectores,int tamlistaSectores);
 
 int NEXO_pMenuAltas(eEmpleado* listaEmpleados,int tamListaEmpleados
                      ,eSector* listaSectores,int tamListaSectores

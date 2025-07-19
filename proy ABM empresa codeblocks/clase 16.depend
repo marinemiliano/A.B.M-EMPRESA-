@@ -366,3 +366,108 @@
 	"eEmpleado.h"
 	"eSector.h"
 
+1752955724 source:c:\users\marin\eclipse proyectos\proyecto abm empresa\proy abm empresa codeblocks\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn_biblioteca_InputsC.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"almuerzo.h"
+
+1752955724 c:\users\marin\eclipse proyectos\proyecto abm empresa\proy abm empresa codeblocks\utn_biblioteca_inputsc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"fecha.h"
+
+1752955724 c:\users\marin\eclipse proyectos\proyecto abm empresa\proy abm empresa codeblocks\data_warehouse.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eEmpleado.h"
+	"almuerzo.h"
+
+1752956687 c:\users\marin\eclipse proyectos\proyecto abm empresa\proy abm empresa codeblocks\eempleado.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"utn_biblioteca_InputsC.h"
+	"eSector.h"
+	"fecha.h"
+	"almuerzo.h"
+
+1752955724 c:\users\marin\eclipse proyectos\proyecto abm empresa\proy abm empresa codeblocks\esector.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"utn_biblioteca_InputsC.h"
+	"eEmpleado.h"
+
+1752955724 c:\users\marin\eclipse proyectos\proyecto abm empresa\proy abm empresa codeblocks\fecha.h
+
+1752955724 c:\users\marin\eclipse proyectos\proyecto abm empresa\proy abm empresa codeblocks\almuerzo.h
+	"fecha.h"
+	"eEmpleado.h"
+
+1752955724 source:c:\users\marin\eclipse proyectos\proyecto abm empresa\proy abm empresa codeblocks\comida.c
+
+1752955724 source:c:\users\marin\eclipse proyectos\proyecto abm empresa\proy abm empresa codeblocks\data_warehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"eEmpleado.h"
+	"almuerzo.h"
+	"fecha.h"
+
+1752955724 source:c:\users\marin\eclipse proyectos\proyecto abm empresa\proy abm empresa codeblocks\esector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"almuerzo.h"
+
+1752955724 source:c:\users\marin\eclipse proyectos\proyecto abm empresa\proy abm empresa codeblocks\fecha.c
+
+1752955724 source:c:\users\marin\eclipse proyectos\proyecto abm empresa\proy abm empresa codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"utn_biblioteca_InputsC.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"informes.h"
+	"fecha.h"
+	"almuerzo.h"
+
+1752955724 c:\users\marin\eclipse proyectos\proyecto abm empresa\proy abm empresa codeblocks\informes.h
+	"eEmpleado.h"
+	"eSector.h"
+
+1752955724 source:c:\users\marin\eclipse proyectos\proyecto abm empresa\proy abm empresa codeblocks\utn_biblioteca_inputsc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn_biblioteca_InputsC.h"
+
