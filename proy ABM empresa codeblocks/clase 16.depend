@@ -1,0 +1,368 @@
+# depslib dependency file v1.0
+1744423085 source:f:\proyectos en codeblocks\profe bauss\clase 16\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn_biblioteca_InputsC.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"almuerzo.h"
+
+1741493317 f:\proyectos en codeblocks\profe bauss\clase 16\utn_biblioteca_inputsc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"fecha.h"
+
+1740845836 f:\proyectos en codeblocks\profe bauss\clase 16\data_warehouse.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eEmpleado.h"
+	"almuerzo.h"
+
+1746540616 f:\proyectos en codeblocks\profe bauss\clase 16\eempleado.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"utn_biblioteca_InputsC.h"
+	"eSector.h"
+	"fecha.h"
+	"almuerzo.h"
+
+1744122023 f:\proyectos en codeblocks\profe bauss\clase 16\esector.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"utn_biblioteca_InputsC.h"
+	"eEmpleado.h"
+
+1742237990 f:\proyectos en codeblocks\profe bauss\clase 16\fecha.h
+
+1742868500 f:\proyectos en codeblocks\profe bauss\clase 16\almuerzo.h
+	"fecha.h"
+	"eEmpleado.h"
+
+1707525726 source:f:\proyectos en codeblocks\profe bauss\clase 16\comida.c
+
+1746632758 source:f:\proyectos en codeblocks\profe bauss\clase 16\eempleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"almuerzo.h"
+
+1744127598 source:f:\proyectos en codeblocks\profe bauss\clase 16\data_warehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"eEmpleado.h"
+	"almuerzo.h"
+	"fecha.h"
+
+1744299205 source:f:\proyectos en codeblocks\profe bauss\clase 16\esector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"almuerzo.h"
+
+1742268098 source:f:\proyectos en codeblocks\profe bauss\clase 16\fecha.c
+
+1741395681 source:f:\proyectos en codeblocks\profe bauss\clase 16\utn_biblioteca_inputsc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn_biblioteca_InputsC.h"
+
+1746633126 source:f:\proyectos en codeblocks\profe bauss\clase 16\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"utn_biblioteca_InputsC.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"informes.h"
+	"fecha.h"
+	"almuerzo.h"
+
+1741105144 f:\proyectos en codeblocks\profe bauss\clase 16\informes.h
+	"eEmpleado.h"
+	"eSector.h"
+
+1741122586 source:f:\proyectos en codeblocks\profe bauss\clase 16\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"informes.h"
+	"almuerzo.h"
+
+1752798490 source:h:\proyectos en codeblocks\profe bauss\clase 16\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn_biblioteca_InputsC.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"almuerzo.h"
+
+1741493317 h:\proyectos en codeblocks\profe bauss\clase 16\utn_biblioteca_inputsc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"fecha.h"
+
+1740845836 h:\proyectos en codeblocks\profe bauss\clase 16\data_warehouse.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eEmpleado.h"
+	"almuerzo.h"
+
+1752797301 h:\proyectos en codeblocks\profe bauss\clase 16\eempleado.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"utn_biblioteca_InputsC.h"
+	"eSector.h"
+	"fecha.h"
+	"almuerzo.h"
+
+1752618582 h:\proyectos en codeblocks\profe bauss\clase 16\esector.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"utn_biblioteca_InputsC.h"
+	"eEmpleado.h"
+
+1742237990 h:\proyectos en codeblocks\profe bauss\clase 16\fecha.h
+
+1752618019 h:\proyectos en codeblocks\profe bauss\clase 16\almuerzo.h
+	"fecha.h"
+	"eEmpleado.h"
+
+1707525726 source:h:\proyectos en codeblocks\profe bauss\clase 16\comida.c
+
+1752797368 source:h:\proyectos en codeblocks\profe bauss\clase 16\data_warehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"eEmpleado.h"
+	"almuerzo.h"
+	"fecha.h"
+
+1752797287 source:h:\proyectos en codeblocks\profe bauss\clase 16\eempleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"almuerzo.h"
+
+1752797360 source:h:\proyectos en codeblocks\profe bauss\clase 16\esector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"almuerzo.h"
+
+1742268098 source:h:\proyectos en codeblocks\profe bauss\clase 16\fecha.c
+
+1741122586 source:h:\proyectos en codeblocks\profe bauss\clase 16\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"informes.h"
+	"almuerzo.h"
+
+1741105144 h:\proyectos en codeblocks\profe bauss\clase 16\informes.h
+	"eEmpleado.h"
+	"eSector.h"
+
+1741395681 source:h:\proyectos en codeblocks\profe bauss\clase 16\utn_biblioteca_inputsc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn_biblioteca_InputsC.h"
+
+1752798241 source:h:\proyectos en codeblocks\profe bauss\clase 16\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"utn_biblioteca_InputsC.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"informes.h"
+	"fecha.h"
+	"almuerzo.h"
+
+1752887574 source:c:\users\marin\onedrive\desktop\clase 16\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn_biblioteca_InputsC.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"almuerzo.h"
+
+1741493317 c:\users\marin\onedrive\desktop\clase 16\utn_biblioteca_inputsc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"fecha.h"
+
+1740845836 c:\users\marin\onedrive\desktop\clase 16\data_warehouse.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eEmpleado.h"
+	"almuerzo.h"
+
+1752893343 c:\users\marin\onedrive\desktop\clase 16\eempleado.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"utn_biblioteca_InputsC.h"
+	"eSector.h"
+	"fecha.h"
+	"almuerzo.h"
+
+1752887684 c:\users\marin\onedrive\desktop\clase 16\esector.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"utn_biblioteca_InputsC.h"
+	"eEmpleado.h"
+
+1742237990 c:\users\marin\onedrive\desktop\clase 16\fecha.h
+
+1752887418 c:\users\marin\onedrive\desktop\clase 16\almuerzo.h
+	"fecha.h"
+	"eEmpleado.h"
+
+1707525726 source:c:\users\marin\onedrive\desktop\clase 16\comida.c
+
+1752797368 source:c:\users\marin\onedrive\desktop\clase 16\data_warehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"eEmpleado.h"
+	"almuerzo.h"
+	"fecha.h"
+
+1752893201 source:c:\users\marin\onedrive\desktop\clase 16\eempleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"almuerzo.h"
+
+1752887683 source:c:\users\marin\onedrive\desktop\clase 16\esector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"almuerzo.h"
+
+1742268098 source:c:\users\marin\onedrive\desktop\clase 16\fecha.c
+
+1741395681 source:c:\users\marin\onedrive\desktop\clase 16\utn_biblioteca_inputsc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn_biblioteca_InputsC.h"
+
+1752893314 source:c:\users\marin\onedrive\desktop\clase 16\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"data_Warehouse.h"
+	"utn_biblioteca_InputsC.h"
+	"eEmpleado.h"
+	"eSector.h"
+	"informes.h"
+	"fecha.h"
+	"almuerzo.h"
+
+1741105144 c:\users\marin\onedrive\desktop\clase 16\informes.h
+	"eEmpleado.h"
+	"eSector.h"
+
